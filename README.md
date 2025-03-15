@@ -8,14 +8,23 @@ This music app provides a seamless and feature-rich experience, allowing users t
 
 
 ![IMG-20250315-WA0002](https://github.com/user-attachments/assets/ba7df487-c540-4edd-9af7-1cfc312640d9)
+
 ![IMG-20250315-WA0003](https://github.com/user-attachments/assets/d059ff04-e51e-4e61-b2e2-7a7cf41d049c)
+
 ![IMG-20250315-WA0011](https://github.com/user-attachments/assets/0b3f7749-8c82-4f05-896a-a9fb036166a8)
+
 ![IMG-20250315-WA0004](https://github.com/user-attachments/assets/a18402a5-8941-4c7c-b947-6a7fad4aa90d)
+
 ![IMG-20250315-WA0006](https://github.com/user-attachments/assets/90b89ed4-e327-45a0-a33b-b93e303be0ea)
+
 ![IMG-20250315-WA0007](https://github.com/user-attachments/assets/dabae672-be5c-4c75-a585-2b42b05c4d42)
+
 ![IMG-20250315-WA0008](https://github.com/user-attachments/assets/2ab8f2c4-03f8-4ebb-8ba4-74331dcaf7df)
+
 ![IMG-20250315-WA0009](https://github.com/user-attachments/assets/921f2142-65ed-4553-8344-dbdc1400a78d)
+
 ![IMG-20250315-WA0010](https://github.com/user-attachments/assets/86346c28-53a6-44a8-83f0-9c22ec787c20)
+
 ![IMG-20250315-WA0011](https://github.com/user-attachments/assets/0e5ec1a6-48c7-4a9d-9087-37446029891c)
 
 
